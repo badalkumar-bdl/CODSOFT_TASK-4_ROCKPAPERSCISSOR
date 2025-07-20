@@ -124,8 +124,8 @@ If you find any bugs or want to suggest improvements, feel free to open an issue
 
 ## 🔗 Connect
 
-- GitHub: [YourUsername](https://github.com/your-username)  
-- Project Repository: [rock-paper-scissors-python](https://github.com/your-username/rock-paper-scissors-python)  
+- GitHub: [badalkumar-bdl](https://github.com/badalkumar-bdl)  
+- Project Repository: [rock-paper-scissors-python](https://github.com/badalkumar-bdl/rock-paper-scissors-python)  
 
 ---
 
