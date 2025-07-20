@@ -35,7 +35,8 @@ Make sure you have Python installed on your system.
 
 ```bash
 python rock_paper_scissors.py
-🛠️ Requirements
+---
+##🛠️ Requirements
 Python 3.x
 
 📂 File Info
